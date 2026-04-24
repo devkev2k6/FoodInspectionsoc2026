@@ -144,7 +144,7 @@ cd kitchen-ai-inspector
 flutter pub get
 ```
 
-### 3. Verify your `pubspec.yaml` dependencies
+### 3. Verify `pubspec.yaml` dependencies
 
 ```yaml
 dependencies:
@@ -231,11 +231,7 @@ The key is baked into the compiled binary at build time and is never present in 
 
 ---
 
-## 📸 Screenshots
 
-| Empty State | Scan Result (Pass) | Scan Result (Fail) | History View |
-|---|---|---|---|
-| *(add screenshot)* | *(add screenshot)* | *(add screenshot)* | *(add screenshot)* |
 
 ---
 
@@ -260,8 +256,7 @@ The key is baked into the compiled binary at build time and is never present in 
 
 | Name | Role |
 |---|---|
-| *(Your Name)* | Developer & Designer |
-| *(Team Member)* | *(Role)* |
+| Debargha Sikdar | Developer & Designer |
 
 **Institution:** *(Your University / College)*
 **Country:** India
